@@ -1,0 +1,19 @@
+{
+  "name": "acode.plugins.webxdc",
+  "version": "1.0.0",
+  "description": "Template for Webxdc apps",
+  "repository": "https://github.com/pryzrack/acode.plugin.webxdc",
+  "author": "призрак <pryzrack@nauta.cu>",
+  "license": "MIT",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "webpack",
+    "build-release": "webpack --mode production",
+    "start-dev": "node .vscode/start-dev"
+  },
+  "dependencies": {
+    "raw-loader": "^4.0.2",
+    "url-loader": "^4.1.1",
+    "webpack-cli": "^5.1.1"
+  }
+}

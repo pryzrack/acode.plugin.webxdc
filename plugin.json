@@ -1,0 +1,18 @@
+{
+  "id": "acode.plugin.webxdc",
+  "name": "Webxdc Template",
+  "main": "dist/main.js",
+  "version": "1.0",
+  "readme": "README.md",
+  "icon": "icon.png",
+  "files": [
+    "jszip.js"
+  ],
+  "price": 0,
+  "author": {
+    "name": "призрак",
+    "email": "pryzrack@nauta.cu",
+    "url": "https://github.com/pryzrack",
+    "github": "pryzrack"
+  }
+}
